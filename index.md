@@ -1,10 +1,8 @@
 ---
 layout: home
-title: "Welcome to the Cornell MAE UG Program Github Page"
+title: "Cornell MAE Undergraduate Program"
 ---
 
-# Cornell MAE Undergraduate Program
-
-## Links Below
+## Useful Links
 
 - Set up your portfolio

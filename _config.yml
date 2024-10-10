@@ -8,7 +8,6 @@ url: "Cornell-MAE-UG.github.io"
 remote_theme: "mmistakes/minimal-mistakes" # Uses the Minimal Mistakes theme from GitHub
 plugins:
   - jekyll-remote-theme # Needed to use remote themes on GitHub Pages
-  - jekyll-feed
   - jekyll-sitemap
   - jekyll-include-cache 
 
