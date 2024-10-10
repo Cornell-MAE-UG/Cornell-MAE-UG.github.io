@@ -11,7 +11,7 @@ author:
 
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes # The default theme for Jekyll, can be changed to another theme
+theme: minimal-mistakes-jekyll # The default theme for Jekyll, can be changed to another theme
 plugins:
 
 # Permalinks
